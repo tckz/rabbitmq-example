@@ -1,0 +1,27 @@
+= Example for using RabbitMQ
+
+
+== Source
+
+https://github.com/tckz/ImpalaSharp
+
+
+
+== Requirement
+
+* RabbitMQ server
+
+
+== License
+
+This softtware is licensed under the APL2.0.  See LICENSE.txt for details.
+
+
+== My environment
+
+* Windows 7 Professional x64
+* JDK7u55 x64
+* rabbitmq-server-3.1.5-1.el6.noarch
+
+
+
