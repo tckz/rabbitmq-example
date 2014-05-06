@@ -3,7 +3,7 @@
 
 == Source
 
-https://github.com/tckz/ImpalaSharp
+https://github.com/tckz/rabbitmq-example
 
 
 
